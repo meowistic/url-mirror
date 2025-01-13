@@ -3,8 +3,7 @@
 ## A tool for bypassing country and wifi restrictions. 
 ### https://kvts.vercel.app/
 
-
-[URL-mirror-1.pdf](https://github.com/user-attachments/files/18396593/URL-mirror-1.pdf)
+![URL-mirror-1-1](https://github.com/user-attachments/assets/46d7c57d-49b8-4dc5-b349-4c0645839d81)
 
 *NOTE: this project is designed for static websites.*
 
